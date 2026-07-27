@@ -12,6 +12,7 @@ All files in this repository are proprietary brand assets of the Thaw project. D
 | `icons/` | Design sources and exported icons |
 | `packaging/` | DMG backgrounds used by Thaw release CI |
 | `marketing/` | Banners and screenshots (sources) |
+| `badges/` | Partner / “works with” badges |
 
 ## Consumers
 
