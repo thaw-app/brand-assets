@@ -20,6 +20,7 @@ All files in this repository are proprietary brand assets of the Thaw project. D
   `https://raw.githubusercontent.com/thaw-app/brand-assets/main/headers/thaw-dark.svg`
 - **Thaw DMG CI** — sparse-checkout `packaging/dmg-background-27@2x.png` (prefer a pinned commit SHA)
 - **Raycast** — keep thin local copies of `extension-icon.png` and `metadata/` for the store; headers point here
+- **GitHub org avatar** — `icons/org-avatar.png`, uploaded by hand in the organization's settings. It is Icon Composer's dark render of Thaw's `AppIcon.icon`, with the corners filled in the tile's own colours so it is a full square for GitHub to round
 
 ## Do not put here
 
